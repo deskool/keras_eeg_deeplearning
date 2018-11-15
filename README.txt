@@ -32,4 +32,4 @@ and samples each subject multiple times.
 -----------------------------------------
 ----  STEP3_TrainNeuralNet.py ----
 -----------------------------------------
-Runs a Neural Network.
+Train a 3D CNN
