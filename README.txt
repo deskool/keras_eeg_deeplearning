@@ -30,6 +30,19 @@ files. Also reshapes the data so that it can be used by the Keras DNN framework
 and samples each subject multiple times. 
 
 -----------------------------------------
-----  STEP3_TrainNeuralNet.py ----
+----  STEP3_Train3DCNN.py ----
 -----------------------------------------
 Train a 3D CNN
+
+-----------------------------------------
+----  generate_hyperparameters.py ----
+-----------------------------------------
+Generates a large set of hyperparamters for training
+
+-----------------------------------------
+----  runNN.py ----
+-----------------------------------------
+Trains many models for the given hyperparameters and neatly stores the results.
+
+
+
