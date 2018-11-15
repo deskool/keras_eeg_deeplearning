@@ -32,4 +32,4 @@ and samples each subject multiple times.
 -----------------------------------------
 ----  STEP3_TrainNeuralNet.py ----
 -----------------------------------------
-Runs
+Runs a Neural Network.
