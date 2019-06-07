@@ -3,7 +3,7 @@
 """
 Created on Wed Feb 21 10:36:01 2018
 
-@author: tuka
+@author: Tuka Alhanai (tuka@mit.edu)
 
 Evaluating results of NN training
 """
