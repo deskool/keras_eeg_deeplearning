@@ -2,5 +2,5 @@ Keras
 matplotlib
 h5py
 scikit-learn
-tensorflow==1.4.0
+tensorflow==2.9.3
 tensorflow-gpu==1.4.0
